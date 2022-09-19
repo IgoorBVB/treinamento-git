@@ -2,7 +2,7 @@
 
 Arquivo de exemplo para o treinamento do git
 
-# comandos:
+## comandos:
 
 git status
 
@@ -13,3 +13,12 @@ git commit -am "texto"
 git push
 
 git pull
+
+## branch
+
+criação da branch develop
+
+
+### exemplo
+
+tela de vandas funcional, Confia.
