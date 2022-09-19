@@ -2,7 +2,7 @@
 
 Arquivo de exemplo para o treinamento do git
 
-# comandos:
+## comandos:
 
 git status
 
@@ -14,6 +14,6 @@ git push
 
 git pull
 
-# branch
+## branch
 
 criação da branch develop
